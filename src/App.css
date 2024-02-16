@@ -1,0 +1,60 @@
+
+.container{
+background-image: linear-gradient(red,#a41696,blue);
+flex:1;
+height: 100vh;
+justify-content: center;
+display: flex;
+
+
+}
+.inner{
+background-color: black;
+width: 24%;
+height: 40%;
+
+margin-top: 40px;
+border-radius: 15px;
+margin-bottom: 5px;
+
+}
+.mylabel{
+    padding-left: 20px;
+margin-top: 10px;
+    display: inline-block;
+    width: 85px;
+    color:white;
+    margin-right:5px ;
+    font-size: xx-small;
+
+}
+.myinput{
+    margin-top: 5px;
+  font-size: xx-small;
+}
+.mybutton{
+background-color: rgb(33, 159, 33);
+padding: 3px 10px 3px 10px;
+border-radius: 40px;
+border-color: white;
+
+
+
+color: white;
+font-size: xx-small;
+}
+.mylabel1{
+    width: 50px;
+    color: white;
+    font-size: xx-small;
+}
+.myinput1{
+    width:8px;
+    height: 8px;
+
+}
+.mydiv{
+margin-top: 15px;
+display: flex;
+justify-content: center;
+}
